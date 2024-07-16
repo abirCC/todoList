@@ -1,2 +1,2 @@
-#This is a JS project
-#Todo List 
+# This is a JS project
+# Todo List 
